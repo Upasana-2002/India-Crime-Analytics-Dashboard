@@ -11,7 +11,7 @@ A Power BI dashboard analyzing **state-wise crime data in India** from 2017 to 2
 - **Interactive filters**: Drill down by state, age, gender.
   
 
-**Why This Project Stands Out?**
+**Why This Project Stands Out**
 - Focuses on **real government dataset** (district/state crime reports).
 - Combines **demographic breakdowns (age, gender)** with crime analysis.
 - Dashboard is **clean, interactive, and ATS-friendly** → suitable for recruiters and MNCs.
