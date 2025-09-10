@@ -21,7 +21,7 @@ A Power BI dashboard analyzing **state-wise crime data in India** from 2017 to 2
   - Data Visualization (Power BI: maps, treemaps, stacked bars, KPIs)
     
  
-  **Project Highlights**
+**Project Highlights**
 - **Top 10 States** with maximum crimes → easy focus on key problem areas.  
 - **Age & Gender Demographics** → shows which groups are most affected.  
 - **Crime Hotspot Map** → geographical distribution at state level.  
