@@ -9,17 +9,19 @@ A Power BI dashboard analyzing **state-wise crime data in India** from 2017 to 2
 - **Geographical insights**: Map visualization of crime hotspots.  
 - **Trend analysis**: Yearly crime patterns.  
 - **Interactive filters**: Drill down by state, age, gender.
+  
 
 **Why This Project Stands Out?**
-- Focuses on **real government dataset** (district/state crime reports).  
-- Combines **demographic breakdowns (age, gender)** with crime analysis.  
-- Dashboard is **clean, interactive, and ATS-friendly** → suitable for recruiters and MNCs.  
+- Focuses on **real government dataset** (district/state crime reports).
+- Combines **demographic breakdowns (age, gender)** with crime analysis.
+- Dashboard is **clean, interactive, and ATS-friendly** → suitable for recruiters and MNCs.
 - Showcases **end-to-end skills**:  
   - Data Cleaning (Power Query, Excel)  
   - Data Transformation (DAX, Calculated Columns)  
   - Data Visualization (Power BI: maps, treemaps, stacked bars, KPIs)
+    
  
-   ** Project Highlights**
+  **Project Highlights**
 - **Top 10 States** with maximum crimes → easy focus on key problem areas.  
 - **Age & Gender Demographics** → shows which groups are most affected.  
 - **Crime Hotspot Map** → geographical distribution at state level.  
